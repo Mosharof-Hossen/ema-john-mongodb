@@ -1,0 +1,28 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+}
+.product-show{
+    display: flex;
+}
+.feature{
+    margin-left: 80px;
+}
+.product-details h4{
+    color: blue;
+    font-weight: 400;
+}
+.product-image{
+    padding: 30px;
+}
+.product-details{
+    padding: 30px;
+}
+.btn-add{
+    background-color: rgb(240, 193, 75);
+    width: 150px;
+    height: 30px;
+    border: 1px solid rgb(146, 132, 50);
+    border-radius: 5px;
+    cursor: pointer;
+}
